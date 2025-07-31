@@ -53,8 +53,8 @@ Creo firmemente en el poder del análisis de datos para impulsar prácticas más
 
 Estoy abierto a nuevas oportunidades y colaboraciones en el campo del análisis de datos, especialmente aquellas que combinan la tecnología con un impacto positivo en el medio ambiente y la sociedad.
 
-- **LinkedIn**: [Tu perfil de LinkedIn aquí]
-- **Email**: [Tu correo electrónico aquí]
+- **LinkedIn**: https://www.linkedin.com/in/nicolas-zalazar-63340923a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **Email**: zalazarn046@gmail.com
 
 ---
 
