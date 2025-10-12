@@ -1,10 +1,17 @@
-# 👋 ¡Hola! Soy Nicolás Zalazar
+# Data Analyst | Google Certified (Coursera).
 
-## 📊 De la Hospitalidad al Análisis de Datos: Mi Viaje en Data Science
+# Transitioning from sales and hospitality, bringing strong business and communication skills. Expert in the data analysis pipeline:
 
-Soy un profesional apasionado en **transición de carrera** desde el dinámico sector de la **hotelería y el turismo** hacia el fascinante mundo del **Análisis de Datos y la Ciencia de Datos**. Mi experiencia previa en atención al cliente y gestión operativa me ha dotado de una perspectiva única para entender las necesidades del negocio y transformarlas en soluciones basadas en datos.
+# 📊 Visualization: Tableau
 
-Mi objetivo es aplicar mis habilidades analíticas y mi conocimiento del sector hotelero para impulsar la eficiencia, optimizar la toma de decisiones y fomentar la **sustentabilidad** en la industria.
+# 🐍 Programming: Python, R
+
+# ⚙️ Querying: SQL (BigQuery)
+
+# 📈 Domain: Sales, Digital Marketing, ROI Analysis.
+
+# I build data-driven insights and interactive dashboards. Fluent in Spanish, English, Portuguese, and French. Open to new collaborations and projects.
+
 
 ---
 
