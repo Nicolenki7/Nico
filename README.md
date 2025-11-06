@@ -1,69 +1,57 @@
-# Data Analyst | Google Certified (Coursera).
+# 🚀 Nicolás Zalazar | Data Strategy & Machine Learning Consultant
 
-# Transitioning from sales and hospitality, bringing strong business and communication skills. Expert in the data analysis pipeline:
+**📊 Full-Stack Data Analyst | Google Certified (Coursera) | Business & Tech Consultant**
 
-# 📊 Visualization: Tableau
-
-# 🐍 Programming: Python, R
-
-# ⚙️ Querying: SQL (BigQuery)
-
-# 📈 Domain: Sales, Digital Marketing, ROI Analysis.
-
-# I build data-driven insights and interactive dashboards. Fluent in Spanish, English, Portuguese, and French. Open to new collaborations and projects.
-
+Mi enfoque se centra en transformar datos complejos en **decisiones estratégicas** que impulsan la optimización de ingresos (ROI) y la mitigación de riesgos. Poseo la capacidad única de enlazar la modelización técnica (*Scikit-learn, Deep Learning*) con la entrega de valor ejecutivo a través de soluciones robustas de *Business Intelligence* (Power BI/Tableau).
 
 ---
 
-## 🚀 Mi Portfolio de Proyectos de Análisis de Datos
+## 💡 Propuesta de Valor y Enfoque Ejecutivo
 
-Aquí encontrarás una colección de proyectos que demuestran mi capacidad para abordar problemas complejos, desde la optimización de ingresos en hoteles de lujo hasta el análisis de impacto ambiental con IA. Cada proyecto refleja mi compromiso con la aplicación práctica de los datos para generar valor.
-
-### [🔗 Explora mi Portfolio de Análisis de Datos aquí](https://github.com/Nicolenki7/data-analytics-portfolio)
-
----
-
-## 🛠️ Mis Habilidades Técnicas
-
-Mi stack tecnológico incluye herramientas y lenguajes clave en el ecosistema de datos:
-
-### 🐍 Lenguajes de Programación
-- **Python**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
-- **R**: Análisis estadístico, visualización, GIS
-
-### 📊 Herramientas de Análisis y Visualización
-- **SQL**: Consultas avanzadas, gestión de bases de datos (PostgreSQL, MySQL, SQL Server)
-- **Power BI**: Creación de dashboards interactivos y reportes de Business Intelligence
-- **Tableau**: Visualización de datos y storytelling
-- **Matplotlib & Seaborn**: Visualizaciones estáticas y exploratorias en Python
-- **Plotly**: Visualizaciones interactivas
-- **GIS**: Análisis geoespacial y mapeo
-
-### 🤖 Machine Learning & Inteligencia Artificial
-- **Modelado Predictivo**: Regresión, Clasificación
-- **Aprendizaje No Supervisado**: Clustering, Segmentación
-- **Deep Learning**: Redes neuronales para análisis avanzado
-
-### ☁️ Otros
-- **Git & GitHub**: Control de versiones y colaboración
-- **Excel**: Análisis de datos, tablas dinámicas
+| Área de Especialización | Objetivo Estratégico |
+| :--- | :--- |
+| **Business Intelligence (BI)** | Creación de cuadros de mando interactivos que cuantifican el **impacto financiero** y el rendimiento del modelo (ej., minimización de Falsos Positivos en Credit Scoring). |
+| **Modelos de Riesgo/Churn** | Desarrollo, calibración y validación de modelos predictivos de **alto impacto** para la gestión de riesgo crediticio y la retención de clientes. |
+| **Consultoría Tech & Automatización**| Automatización de flujos de trabajo con Python (APIs) e implementación de soluciones de IA conversacional para mejorar la eficiencia operativa. |
 
 ---
 
-## 🌱 Mi Enfoque en la Sustentabilidad
+## 🛠️ Stack Tecnológico (Ingeniería de Datos y Análisis)
 
-Creo firmemente en el poder del análisis de datos para impulsar prácticas más sostenibles. Mis proyectos a menudo exploran cómo la IA y el análisis de datos pueden contribuir a la eficiencia energética, la reducción de residuos y la toma de decisiones ecológicas en la industria hotelera y más allá.
+Mi experiencia abarca todo el *pipeline* de datos, desde la ingesta (*ETL/ELT*) hasta el *deployment* en el *cloud*.
+
+### ⚙️ Ingeniería de Datos & Databases
+* **SQL Avanzado:** Consultas de alto rendimiento, optimización de *queries*, procedimientos almacenados y modelado de datos relacionales (PostgreSQL, MySQL, SQL Server).
+* **Microsoft Fabric:** Conocimiento del entorno moderno de datos y análisis de Microsoft.
+* **Cloud (AWS/GCP):** Gestión de servicios de almacenamiento y bases de datos.
+* **Data Engineering Fundamentals:** Arquitectura de *Data Warehousing*, *Data Lakes*, y gestión de pipelines (*ETL/ELT*).
+
+### 🐍 Programación & Machine Learning
+* **Python (Avanzado):** Pandas, NumPy, Scikit-learn (Clasificación, Regresión, Series de Tiempo).
+* **Deep Learning:** TensorFlow & Keras (Implementación de Redes Neuronales).
+* **R:** Análisis estadístico y modelado.
+* **APIs & Automatización:** Extracción y consumo de datos mediante APIs, automatización de tareas con Python.
+
+### 📊 Business Intelligence & Visualización
+* **Power BI:** Modelado de datos (DAX), reportes interactivos y arquitectura de BI empresarial.
+* **Tableau:** Creación de *storytelling* de datos avanzado.
+* **Looker Studio:** Integración de modelos de Machine Learning en *dashboards* de seguimiento.
+
+### 🌐 Desarrollo Web & Consultoría IA
+* **WordPress:** Desarrollo, mantenimiento y configuración.
+* **Consultoría IA:** Integración de modelos de lenguaje grande (*LLMs*) y *chatbots* para aplicaciones empresariales.
 
 ---
 
-## 📫 Conéctate Conmigo
+## 💼 Portfolio de Proyectos (Data Storytelling)
 
-Estoy abierto a nuevas oportunidades y colaboraciones en el campo del análisis de datos, especialmente aquellas que combinan la tecnología con un impacto positivo en el medio ambiente y la sociedad.
-
-- **LinkedIn**: https://www.linkedin.com/in/nicolas-zalazar-63340923a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- **Email**: zalazarn046@gmail.com
+Aquí encontrarás una colección de proyectos que demuestran mi capacidad para abordar problemas complejos, desde la optimización de ingresos en hoteles de lujo hasta el análisis de riesgo crediticio. Cada proyecto refleja mi compromiso con la aplicación práctica de los datos para generar valor.
 
 ---
 
-_"Transformando la experiencia hotelera a través del análisis de datos y la sustentabilidad"_
+## 📫 Conexión y Contacto
 
+Estoy activamente buscando oportunidades desafiantes para aplicar mi *stack* tecnológico en roles que exijan visión analítica, rigor técnico y orientación al negocio.
+
+* **LinkedIn:** [https://www.linkedin.com/in/nicolas-zalazar-63340923a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/nicolas-zalazar-63340923a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* **Kaggle:**
