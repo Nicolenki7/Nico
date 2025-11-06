@@ -54,4 +54,6 @@ Aquí encontrarás una colección de proyectos que demuestran mi capacidad para 
 Estoy activamente buscando oportunidades desafiantes para aplicar mi *stack* tecnológico en roles que exijan visión analítica, rigor técnico y orientación al negocio.
 
 * **LinkedIn:** [https://www.linkedin.com/in/nicolas-zalazar-63340923a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/nicolas-zalazar-63340923a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-* **Kaggle:**
+* **Kaggle:** [https://www.kaggle.com/nicolaszalazar73](https://www.kaggle.com/nicolaszalazar73)
+* **Email:** `zalazarn046@gmail.com`
+* **Idiomas:** Fluent in Spanish, English, Portuguese, and French.
